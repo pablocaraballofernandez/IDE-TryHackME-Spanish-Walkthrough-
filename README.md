@@ -11,7 +11,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 [![Writeup](https://img.shields.io/badge/Writeup-Complete-success?style=for-the-badge)](https://github.com/tuusuario/ide-writeup)
-[![Difficulty](https://img.shields.io/badge/Difficulty-Easy%2FMedium-yellow?style=for-the-badge)](https://tryhackme.com/room/ide)
+[![Difficulty](https://img.shields.io/badge/Difficulty-Easy-blue?style=for-the-badge)](https://tryhackme.com/room/ide)
 [![Platform](https://img.shields.io/badge/Platform-Linux-orange?style=for-the-badge)](https://tryhackme.com)
 
 </div>
