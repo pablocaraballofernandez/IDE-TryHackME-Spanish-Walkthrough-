@@ -1,6 +1,6 @@
 <div align="center">
 
-#  TryHackMe - IDE Machine Writeup
+#  TryHackMe - IDE 
 
 </div>
 <div align="center">
@@ -18,7 +18,7 @@
 
 ##  Descripción
 
-Writeup completo y detallado de la máquina **IDE** de TryHackMe, documentando todo el proceso de penetración desde el reconocimiento inicial hasta la obtención de privilegios root. Este repositorio incluye explicaciones técnicas paso a paso, comandos utilizados y conceptos de seguridad aplicados.
+Guía completa y detallada de la máquina **IDE** de TryHackMe, documentando todo el proceso de penetración desde el reconocimiento inicial hasta la obtención de privilegios root. Este repositorio incluye explicaciones técnicas paso a paso, comandos utilizados y conceptos de seguridad aplicados.
 
 ##  Objetivos de la Máquina
 
@@ -36,39 +36,6 @@ Writeup completo y detallado de la máquina **IDE** de TryHackMe, documentando t
 - **Nmap** - Escaneo de puertos y servicios
 - **Burp Suite** - Interceptación y fuerza bruta
 - **Netcat** - Reverse shells
-- **Python** - Ejecución de exploits
-- **SecLists** - Wordlists para fuerza bruta
-
-### Servicios Vulnerables
-- **vsFTPd 3.0.3** - Acceso anónimo mal configurado
-- **Codiad 2.8.4** - Remote Code Execution
-- **Systemd** - Service misconfiguration
-
-##  Contenido del Writeup
-
-### 1. Reconocimiento
-- Escaneo completo de puertos con Nmap
-- Identificación de servicios vulnerables
-- Enumeración de versiones
-
-### 2. Acceso Inicial
-- Explotación de FTP anónimo
-- Descubrimiento de credenciales
-- Fuerza bruta en Codiad
-- RCE mediante CVE-2018-14009
-
-### 3. Post-Explotación
-- Técnica de Staged Reverse Shell
-- Upgrade a TTY interactiva
-- Movimiento lateral www-data → drac
-
-### 4. Escalada de Privilegios
-- Análisis de permisos sudo
-- Explotación de systemd service
-- Manipulación de archivos de configuración
-- Obtención de shell root
-
-##  Quick Start
 
 ### Clonar el Repositorio
 ```bash
