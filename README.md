@@ -30,7 +30,7 @@ Guía completa y detallada de la máquina **IDE** de TryHackMe, documentando tod
 - [x] Escalada de privilegios mediante sudo misconfiguration
 - [x] Obtención de flags user.txt y root.txt
 
-## 🛠 Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 ### Herramientas de Pentesting
 - **Nmap** - Escaneo de puertos y servicios
@@ -39,5 +39,5 @@ Guía completa y detallada de la máquina **IDE** de TryHackMe, documentando tod
 
 ### Clonar el Repositorio
 ```bash
-git clone https://github.com/tuusuario/ide-writeup.git
-cd ide-writeup
+git clone https://github.com/pablocaraballofernandez/IDE-TryHackME-Spanish-Walkthrough-.git
+cd IDE-TryHackME-Spanish-Walkthrough-
