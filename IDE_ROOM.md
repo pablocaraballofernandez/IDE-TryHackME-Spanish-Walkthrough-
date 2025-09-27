@@ -25,8 +25,7 @@
 ### · ESCALADA DE PRIVILEGIOS  
 ### · CONCLUSIONES
 
- ## RECONOCIMIENTO  
-### ESCANEO INICIAL DE PUERTOS    
+ ## RECONOCIMIENTO     
 Lo primero que haré es usar nmap como buen hacker que soy:
 
 ![nmap1.png](Images/nmap1.png)
